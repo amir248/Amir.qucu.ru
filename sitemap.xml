@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://amir.qucu.ru</loc>
+    <lastmod>2023-11-18</lastmod>
+    <priority>1</priority>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://amir.qucu.ru/?buttonOne</loc>
+    <lastmod>2024-01-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://amir.qucu.ru/?buttonTwo</loc>
+    <lastmod>2024-01-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://amir.qucu.ru/?buttonThree</loc>
+    <lastmod>2024-01-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://amir.qucu.ru/instructions</loc>
+    <lastmod>2024-01-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>always</changefreq>
+  </url>
+</urlset>

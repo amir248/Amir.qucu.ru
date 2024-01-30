@@ -1,0 +1,22 @@
+*{
+  margin:0;
+}
+body{
+  background:grey;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:900px;
+  width:100%;
+}
+main{
+  max-width:900px;
+  width:100%;
+}
+article{
+  text-shadow:1px 1px black;
+  color:white;
+}
+article > img{
+  width:100%;
+  max-width:900px;
+}
