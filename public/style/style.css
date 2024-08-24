@@ -354,3 +354,7 @@ body > #buttonOne > p, body > #buttonTwo > p, body > #buttonThree > p{
     border-radius: 0 17px 17px 0;
   }
 }
+.rectangle > a{
+  font-size: 33px;
+  margin-bottom:37px;
+}
